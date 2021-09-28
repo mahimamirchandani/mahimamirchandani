@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahimamirchandani
-- 👀 I’m interested in ...Python
+- 👀 I’m interested in ...Python. Java, C. CPP
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...Technical fields
 - 📫 How to reach me ...social media
